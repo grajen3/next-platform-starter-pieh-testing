@@ -1,6 +1,6 @@
 # Next.js on Netlify Platform Starter
 
-t6
+t7
 
 [Live Demo](https://nextjs-platform-starter.netlify.app/)
 
